@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\logo_signup.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\logo_signup.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\banana.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\banana.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\unchecked_white.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\unchecked_white.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\checked.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\checked.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\selected.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\selected.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\icon.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\delete.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\recent.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\recent.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\add.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\add.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\logo_login.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\logo_login.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\menu.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\menu.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\nonselected.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\nonselected.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\apple.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\apple.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\pear.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\pear.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\checked_white.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\checked_white.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\unchecked.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\unchecked.png"
+    }
+]

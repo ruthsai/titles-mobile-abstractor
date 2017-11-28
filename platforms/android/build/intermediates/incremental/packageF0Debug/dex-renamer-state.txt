@@ -1,0 +1,4 @@
+#Fri Nov 24 15:44:25 IST 2017
+base.0=D\:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main\\classes.dex

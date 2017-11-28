@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\menu.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\menu.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\logo_login.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\logo_login.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\delete.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\icon.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\recent.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\recent.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\pear.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\pear.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\checked.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\checked.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\unchecked_white.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\unchecked_white.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\add.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\add.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\checked_white.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\checked_white.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\apple.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\apple.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\unchecked.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\unchecked.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\banana.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\banana.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\selected.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\selected.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\nonselected.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\nonselected.png"
+    },
+    {
+        "merged": "D:\\NSProject\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\logo_signup.png",
+        "source": "D:\\NSProject\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\logo_signup.png"
+    }
+]

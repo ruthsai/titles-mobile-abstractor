@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\NSProject\Groceries\platforms\android\build\intermediates\exploded-aar\nativescript-optimized\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="D:\NSProject\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-nativescript-optimized_60aeeb44f84f6a991a92ab2374d0bf0f4b81e26c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NSProject\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\NSProject\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.3.1_bfe20d1caa70b6d50f41aaca034e9c188a71fde2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NSProject\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\NSProject\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.3.1_a408010de2a75354b34829e66595f21e636f6a9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NSProject\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\NSProject\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.3.1_40e55462d11befa88c9d56357d0d6b29109a9aa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NSProject\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\NSProject\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.3.1_b4f9fb3a47010f8169adfe14f34d287f3c66d314.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NSProject\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\NSProject\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.3.1_f0da19765dc5ae280a82e00644f84e358425e49f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NSProject\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\NSProject\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.3.1_11aad78f5c8de9d2774674b40e9dcbe8a38d690d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ashu Gupta\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\NSProject\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.3.1_b878487d8121260d8fea573a0e6f5d7f512f4677.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NSProject\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\NSProject\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.3.1_2498c919483bceb9e797976045d7e6deaee5a377.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NSProject\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\NSProject\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-25.3.1_b16bfdb94ce83c38ffcf09967aad5e10576237c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NSProject\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\NSProject\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.3.1_708768dc22c4909d29c2b507697f80a71e0638d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NSProject\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\NSProject\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.3.1_c9662ea03be664f39b6dbd6f3d0952be7b4b45a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NSProject\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\NSProject\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.3.1_33aa34799e4ac2687cab257774c600fded10a9ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NSProject\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\NSProject\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.3.1_601dfa5e4187473cfcbf097e75e5f7c0eea98d5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NSProject\Groceries\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="D:\NSProject\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_6ddf361e83358879f8f158f818ab9ebe75f408ea.jar" />
+    </item>
+
+</items>
